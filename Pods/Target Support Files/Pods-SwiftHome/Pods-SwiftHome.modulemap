@@ -1,0 +1,6 @@
+framework module Pods_SwiftHome {
+  umbrella header "Pods-SwiftHome-umbrella.h"
+
+  export *
+  module * { export * }
+}
